@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+media/
+venv/
+
+# Django environment files
+.env
+.env.development
+.env.production
+*.secret
+
+# Node.js (for React)
+node_modules/
+dist/
+.vscode/
+.DS_Store
+.env
+
+# Ignore Docker files
+Dockerfile
+docker-compose.yml
+*.dockerfile
+
+# Ignore SQL files
+*.sql
+*.dump
+*.bak
+*.pgsql
