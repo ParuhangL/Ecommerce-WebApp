@@ -26,7 +26,7 @@ This project is developed as part of the academic requirements for the **Tribhuv
 
 ### ⚙️ Technical Features
 - RESTful APIs with Django REST Framework
-- PostgreSQL integration with Docker support
+- PostgreSQL integration 
 - React Context API for user state management
 - Tailwind CSS for responsive UI design
 - Role-based access control
@@ -35,7 +35,6 @@ This project is developed as part of the academic requirements for the **Tribhuv
 ## 📁 Project Structure
 - `backend/`: Django project with REST APIs and PostgreSQL models
 - `frontend/`: React project built with Vite
-- `docker/`: Dockerfiles and PostgreSQL backup for deployment
 
 ## 📜 License
 This project was developed for academic purposes and is not intended for commercial use.
